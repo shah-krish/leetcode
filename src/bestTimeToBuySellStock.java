@@ -9,7 +9,6 @@ public class bestTimeToBuySellStock {
             buy = Math.min(buy,prices[i]);
             sell = Math.max(sell,prices[i+1]-buy);
         }
-
         return sell;
     }
 }

@@ -2,26 +2,35 @@ import java.util.Arrays;
 
 public class mergeSortedArray {
     public static void main(String[] args) {
-        int[] arr = {1,2,3,0,0,0};
-        int [] arr2= {2,5,6};
-        merge(arr,3,arr2,3);
     }
-    public static void merge(int[] nums1, int m, int[] nums2, int n) {
-        int i = m-1, j = 0;
-        while(i>=0 && j<n){
-            if(nums1[i]>nums2[j]){
-                swap(nums1, nums2, i ,j);
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
+        int[] ans = new int[nums1.length];
+        int i=0,j=0,k=0; // 3 pointers to traverse each array
+        while(i<nums1.length && j<nums2.length){
+            if(nums1[i] >= nums2[j]){
+                ans[k] = nums1[i];
+                k++;
                 i++;
-                j--;
             }
             else{
-                break;
+                ans[k] = nums2[j];
+                k++;
+                j++;
             }
         }
-        for(int p=m,k=0; p<nums1.length; p++,k++){
-            nums1[p] = nums2[k];
+        while(i<nums1.length){
+            ans[k] = nums1[i];
+            k++;
+            i++;
         }
-        System.out.println(Arrays.toString(nums1));
+        while(j<nums2.length){
+            ans[k] = nums2[j];
+            k++;
+            j++;
+        }
+        for(int p=0;p<nums1.length;p++){
+            nums1[p] = ans[p];
+        }
     }
 
 //    public static void merge(int[] nums1, int m, int[] nums2, int n) {
