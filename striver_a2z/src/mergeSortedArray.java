@@ -32,6 +32,12 @@ public class mergeSortedArray {
             nums1[p] = ans[p];
         }
     }
+    public static void swap(int[] nums1, int[] nums2, int i, int j){
+        int temp = nums1[i];
+        nums1[i] = nums2[j];
+        nums2[j] = temp;
+    }
+
 
 //    public static void merge(int[] nums1, int m, int[] nums2, int n) {
 //        if(nums1.length<=1){
@@ -57,11 +63,4 @@ public class mergeSortedArray {
 //        System.out.println(Arrays.toString(nums1));
 //        //System.out.println(Arrays.toString(nums1));
 //    }
-    public static void swap(int[] nums1, int[] nums2, int i, int j){
-        int temp = nums1[i];
-        nums1[i] = nums2[j];
-        nums2[j] = temp;
-        //System.out.println(Arrays.toString(nums1));
-        //System.out.println(Arrays.toString(nums2));
-    }
 }
