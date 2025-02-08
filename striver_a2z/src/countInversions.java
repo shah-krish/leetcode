@@ -1,10 +1,11 @@
 public class countInversions {
     public static void main(String[] args) {
-
+        long[] arr = {2,4,1,3,5};
+        System.out.println(getInversions(arr));
     }
     //         https://www.naukri.com/code360/problems/count-inversions_615
 
-    public static long getInversions(long arr[], int n) {
+    public static long getInversions(long arr[]) {
         // Write your code here.
         return rip(arr);
     }
@@ -22,11 +23,12 @@ public class countInversions {
         for(int i=0, p=mid;i<right.length;i++,p++){
             right[i]=nums[p];
         }
-        count += rip(left);
-        count += rip(right);
+        rip(left);
+        rip(right);
         return merge(nums,left,right, count);
     }
     public static long merge(long[] arr,long[] left, long[] right, long count){
+        //System.out.println(count);
         int i=0, k=0,j=0;
         while(i<left.length && j<right.length){
             if(left[i]<=right[j]){
