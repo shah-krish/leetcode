@@ -15,8 +15,8 @@ public class subArraySumEqualsK {
             else if(sum == k && (i+1 < nums.length) && (nums[i+1]==0)){
                 counter ++;
             }
-            System.out.println("sum = "+sum);
-            System.out.println("counter = "+counter);
+          //  System.out.println("sum = "+sum);
+        //    System.out.println("counter = "+counter);
         }
         return counter;
     }
