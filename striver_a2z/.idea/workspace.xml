@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1c29cd2-29e2-46fb-9483-8afd54bca04b" name="Changes" comment="leetcode 704">
+    <list default="true" id="b1c29cd2-29e2-46fb-9483-8afd54bca04b" name="Changes" comment="unversioned">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/searchInsertPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/searchInsertPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/striver-a2z/largestSubArrayWithZeroSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/striver-a2z/largestSubArrayWithZeroSum.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -323,15 +323,29 @@
       <option name="project" value="LOCAL" />
       <updated>1739055353980</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="leetcode 35">
+      <option name="closed" value="true" />
+      <created>1739157121589</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1739157121589</updated>
+    </task>
+    <task id="LOCAL-00036" summary="unversioned">
+      <option name="closed" value="true" />
+      <created>1739157142788</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1739157142788</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="leetcode 283" />
-    <MESSAGE value="leetcode 26" />
     <MESSAGE value="leetcode 189" />
     <MESSAGE value="leetcode 1752" />
     <MESSAGE value="leetcode 349" />
@@ -355,6 +369,8 @@
     <MESSAGE value="g2g" />
     <MESSAGE value="leetcode 152" />
     <MESSAGE value="leetcode 704" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode 704" />
+    <MESSAGE value="leetcode 35" />
+    <MESSAGE value="unversioned" />
+    <option name="LAST_COMMIT_MESSAGE" value="unversioned" />
   </component>
 </project>
