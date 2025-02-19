@@ -1,6 +1,6 @@
 public class squareRoot {
     public static void main(String[] args) {
-        System.out.println(floorSqrt(28));
+        System.out.println(floorSqrt(2147395599));
     }
    static int floorSqrt(int n) {
         int lower = 0, upper = 0;
@@ -13,13 +13,13 @@ public class squareRoot {
         while(k>1){
             k = k/2;
             System.out.println(k);
-            if(k*k==n){
+            if((long)k*k==n){
                 return k;
             }
-            else if(k*k>n){
+            else if((long)k*k>n){
                 continue;
             }
-            else if(k*k<n){
+            else if((long)k*k<n){
                 lower = k;
                 upper = 2*k;
                 break;
