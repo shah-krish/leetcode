@@ -11,7 +11,6 @@ public class nthRootofM {
         if (ans == m) return 1;
         return 0;
     }
-
     public static int nthRoot(int n, int m) {
         int low = 1, high = m;
         while (low <= high) {
