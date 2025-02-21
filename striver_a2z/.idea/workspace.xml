@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1c29cd2-29e2-46fb-9483-8afd54bca04b" name="Changes" comment="squareroot logn">
+    <list default="true" id="b1c29cd2-29e2-46fb-9483-8afd54bca04b" name="Changes" comment="g2g">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/striver-a2z/searchRotatedSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/striver-a2z/searchRotatedSortedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/squareRoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/squareRoot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,14 +49,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729777095899</updated>
-    </task>
-    <task id="LOCAL-00001" summary="solved leetcode 645">
-      <option name="closed" value="true" />
-      <created>1730179983858</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1730179983858</updated>
     </task>
     <task id="LOCAL-00002" summary="solved countInversions">
       <option name="closed" value="true" />
@@ -420,18 +410,47 @@
       <option name="project" value="LOCAL" />
       <updated>1739889298759</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="class files">
+      <option name="closed" value="true" />
+      <created>1739974381559</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1739974381559</updated>
+    </task>
+    <task id="LOCAL-00048" summary="updated 2nd loop to bs">
+      <option name="closed" value="true" />
+      <created>1739974403727</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1739974403727</updated>
+    </task>
+    <task id="LOCAL-00049" summary="class file">
+      <option name="closed" value="true" />
+      <created>1739974412076</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1739974412076</updated>
+    </task>
+    <task id="LOCAL-00050" summary="g2g">
+      <option name="closed" value="true" />
+      <created>1739974441144</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1739974441144</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="leetcode 2149" />
-    <MESSAGE value="leetcode 53" />
     <MESSAGE value="geeksForGeeks" />
     <MESSAGE value="leetcode 128" />
-    <MESSAGE value="class files" />
     <MESSAGE value="arrayLeaders" />
     <MESSAGE value="majorityElement" />
     <MESSAGE value="classFiles" />
@@ -447,11 +466,14 @@
     <MESSAGE value="leetcode 33" />
     <MESSAGE value="leetcode" />
     <MESSAGE value="leetcode 81" />
-    <MESSAGE value="g2g" />
     <MESSAGE value="leetcode 540" />
     <MESSAGE value="leetcode 162" />
     <MESSAGE value="leetcode =" />
     <MESSAGE value="squareroot logn" />
-    <option name="LAST_COMMIT_MESSAGE" value="squareroot logn" />
+    <MESSAGE value="class files" />
+    <MESSAGE value="updated 2nd loop to bs" />
+    <MESSAGE value="class file" />
+    <MESSAGE value="g2g" />
+    <option name="LAST_COMMIT_MESSAGE" value="g2g" />
   </component>
 </project>
