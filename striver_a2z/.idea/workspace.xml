@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1c29cd2-29e2-46fb-9483-8afd54bca04b" name="Changes" comment="aggresive cows bs">
-      <change afterPath="$PROJECT_DIR$/src/splitArrayLargestSum.java" afterDir="false" />
+    <list default="true" id="b1c29cd2-29e2-46fb-9483-8afd54bca04b" name="Changes" comment="leetcode 410">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,14 +49,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729777095899</updated>
-    </task>
-    <task id="LOCAL-00006" summary="leetcode 485">
-      <option name="closed" value="true" />
-      <created>1730516909931</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1730516909931</updated>
     </task>
     <task id="LOCAL-00007" summary="leetcode 268">
       <option name="closed" value="true" />
@@ -443,14 +434,21 @@
       <option name="project" value="LOCAL" />
       <updated>1742261495500</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="leetcode 410">
+      <option name="closed" value="true" />
+      <created>1742401366141</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1742401366142</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="classFiles" />
     <MESSAGE value="leetcode 15" />
     <MESSAGE value="leetcode 18" />
     <MESSAGE value="leetcode 560" />
@@ -475,6 +473,7 @@
     <MESSAGE value="leetcode 1482" />
     <MESSAGE value="leetcode 1011" />
     <MESSAGE value="aggresive cows bs" />
-    <option name="LAST_COMMIT_MESSAGE" value="aggresive cows bs" />
+    <MESSAGE value="leetcode 410" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode 410" />
   </component>
 </project>
