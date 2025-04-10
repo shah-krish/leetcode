@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1c29cd2-29e2-46fb-9483-8afd54bca04b" name="Changes" comment="leetcode 1781" />
+    <list default="true" id="b1c29cd2-29e2-46fb-9483-8afd54bca04b" name="Changes" comment="linkedlist basics">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,14 +49,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729777095899</updated>
-    </task>
-    <task id="LOCAL-00019" summary="leetcode 2149">
-      <option name="closed" value="true" />
-      <created>1731039170208</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1731039170208</updated>
     </task>
     <task id="LOCAL-00020" summary="leetcode 53">
       <option name="closed" value="true" />
@@ -440,14 +434,21 @@
       <option name="project" value="LOCAL" />
       <updated>1744123835578</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="linkedlist basics">
+      <option name="closed" value="true" />
+      <created>1744229529831</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1744229529831</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="leetcode 540" />
     <MESSAGE value="leetcode 162" />
     <MESSAGE value="leetcode =" />
     <MESSAGE value="squareroot logn" />
@@ -472,6 +473,7 @@
     <MESSAGE value="leetcode 13" />
     <MESSAGE value="leetcode 8" />
     <MESSAGE value="leetcode 1781" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode 1781" />
+    <MESSAGE value="linkedlist basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="linkedlist basics" />
   </component>
 </project>
