@@ -26,14 +26,14 @@ public class linkedListCycle {
             return false;
         }
         ListNode slow = head;
-        ListNode fast = head;
-        while(fast!=null){
-            if(fast.equals(slow)){
-                return true;
+        ListNode fast = head.next;
+        while(slow!=fast){
+            if(fast==null||fast.next==null){
+                return false;
             }
-            fast = fast.next.next;
             slow = slow.next;
+            fast = fast.next.next;
         }
-        return false;
+        return true;
     }
 }
