@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1c29cd2-29e2-46fb-9483-8afd54bca04b" name="Changes" comment="leetcode 141">
+    <list default="true" id="b1c29cd2-29e2-46fb-9483-8afd54bca04b" name="Changes" comment="leetcode 142">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedListCycle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,14 +49,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729777095899</updated>
-    </task>
-    <task id="LOCAL-00023" summary="class files">
-      <option name="closed" value="true" />
-      <created>1731176215026</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1731176215026</updated>
     </task>
     <task id="LOCAL-00024" summary="arrayLeaders">
       <option name="closed" value="true" />
@@ -443,14 +434,21 @@
       <option name="project" value="LOCAL" />
       <updated>1744746893076</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="leetcode 142">
+      <option name="closed" value="true" />
+      <created>1744820957216</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1744820957216</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="class files" />
     <MESSAGE value="updated 2nd loop to bs" />
     <MESSAGE value="class file" />
     <MESSAGE value="g2g" />
@@ -475,6 +473,7 @@
     <MESSAGE value="leetcode 876" />
     <MESSAGE value="leetcode 206" />
     <MESSAGE value="leetcode 141" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode 141" />
+    <MESSAGE value="leetcode 142" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode 142" />
   </component>
 </project>
