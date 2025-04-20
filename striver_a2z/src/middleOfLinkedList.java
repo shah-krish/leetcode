@@ -23,6 +23,20 @@ public class middleOfLinkedList {
         }
     }
     public ListNode middleNode(ListNode head) {
+     if(head ==null || head.next==null){
+         return head;
+     }
+     ListNode slow = head;
+     ListNode fast = head;
+     while(fast!=null && fast.next!=null){
+         slow = slow.next;
+         fast = fast.next.next;
+     }
+     return slow;
+    }
+}
+/*
+    public ListNode middleNode(ListNode head) {
         int counter = 0;
         ListNode curr = head;
         while(curr.next!=null){
@@ -36,4 +50,4 @@ public class middleOfLinkedList {
         }
         return c2;
     }
-}
+ */

@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1c29cd2-29e2-46fb-9483-8afd54bca04b" name="Changes" comment="leetcode 234">
+    <list default="true" id="b1c29cd2-29e2-46fb-9483-8afd54bca04b" name="Changes" comment="leetcode 206">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reverseLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middleOfLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middleOfLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,14 +50,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729777095899</updated>
-    </task>
-    <task id="LOCAL-00025" summary="majorityElement">
-      <option name="closed" value="true" />
-      <created>1731986204617</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1731986204617</updated>
     </task>
     <task id="LOCAL-00026" summary="classFiles">
       <option name="closed" value="true" />
@@ -443,7 +435,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745033198854</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="leetcode 206">
+      <option name="closed" value="true" />
+      <created>1745180180715</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1745180180716</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -471,10 +471,10 @@
     <MESSAGE value="leetcode 1781" />
     <MESSAGE value="linkedlist basics" />
     <MESSAGE value="leetcode 876" />
-    <MESSAGE value="leetcode 206" />
     <MESSAGE value="leetcode 141" />
     <MESSAGE value="leetcode 142" />
     <MESSAGE value="leetcode 234" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode 234" />
+    <MESSAGE value="leetcode 206" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode 206" />
   </component>
 </project>
