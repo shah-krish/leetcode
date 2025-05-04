@@ -1,20 +1,19 @@
 public class secondLargestWithoutSorting {
     public static void main(String[] args) {
-//        int[] arr = {2,1,4,5,7,12,4,300,432,4,6,600};
+//        int[] arr = {10,5,10};
 //        System.out.println(secondLargest(arr));
    }
     public static int secondLargest(int[] arr){
-        int largest = Integer.MIN_VALUE;
-        int secondLargest = Integer.MIN_VALUE;
-        for(int i =0; i<arr.length;i++){
-            if(arr[i]>largest){
+        int largest = -1;
+        int secondLargest = -1;
+        for(int i : arr){
+            if(i>largest){
                 secondLargest = largest;
-                largest = arr[i];
+                largest = i;
             }
-            else if(arr[i]>secondLargest){
-                secondLargest = arr[i];
+            else if(i>secondLargest && i!=largest){
+                secondLargest = i;
             }
-            //System.out.println(largest + " "+ secondLargest);
         }
         return secondLargest;
     }
