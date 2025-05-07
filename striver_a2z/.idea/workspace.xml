@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1c29cd2-29e2-46fb-9483-8afd54bca04b" name="Changes" comment="leetcode 49">
+    <list default="true" id="b1c29cd2-29e2-46fb-9483-8afd54bca04b" name="Changes" comment="gfg https://www.geeksforgeeks.org/problems/second-largest3735/1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/secondLargestWithoutSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondLargestWithoutSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/striver-a2z/secondLargestWithoutSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/striver-a2z/secondLargestWithoutSorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/moveZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moveZeroes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,14 +51,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729777095899</updated>
-    </task>
-    <task id="LOCAL-00028" summary="leetcode 18">
-      <option name="closed" value="true" />
-      <created>1734369514099</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1734369514100</updated>
     </task>
     <task id="LOCAL-00029" summary="leetcode 560">
       <option name="closed" value="true" />
@@ -443,14 +436,21 @@
       <option name="project" value="LOCAL" />
       <updated>1746333526818</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="gfg https://www.geeksforgeeks.org/problems/second-largest3735/1">
+      <option name="closed" value="true" />
+      <created>1746334066081</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1746334066081</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="g2g" />
     <MESSAGE value="leetcode 875" />
     <MESSAGE value="leetcode 1482" />
     <MESSAGE value="leetcode 1011" />
@@ -475,6 +475,7 @@
     <MESSAGE value="leetcode 206" />
     <MESSAGE value="leetcode 876" />
     <MESSAGE value="leetcode 49" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode 49" />
+    <MESSAGE value="gfg https://www.geeksforgeeks.org/problems/second-largest3735/1" />
+    <option name="LAST_COMMIT_MESSAGE" value="gfg https://www.geeksforgeeks.org/problems/second-largest3735/1" />
   </component>
 </project>
