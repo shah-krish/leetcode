@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1c29cd2-29e2-46fb-9483-8afd54bca04b" name="Changes" comment="leetcode 169">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b1c29cd2-29e2-46fb-9483-8afd54bca04b" name="Changes" comment="leetcode 121">
       <change beforePath="$PROJECT_DIR$/src/moveZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moveZeroes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,22 +49,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729777095899</updated>
-    </task>
-    <task id="LOCAL-00032" summary="leetcode 152">
-      <option name="closed" value="true" />
-      <created>1738987230150</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1738987230150</updated>
-    </task>
-    <task id="LOCAL-00033" summary="leetcode 704">
-      <option name="closed" value="true" />
-      <created>1739055346538</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1739055346538</updated>
     </task>
     <task id="LOCAL-00034" summary="leetcode 704">
       <option name="closed" value="true" />
@@ -443,15 +426,29 @@
       <option name="project" value="LOCAL" />
       <updated>1746587172387</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="leetcode 53">
+      <option name="closed" value="true" />
+      <created>1746670242739</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1746670242740</updated>
+    </task>
+    <task id="LOCAL-00082" summary="leetcode 121">
+      <option name="closed" value="true" />
+      <created>1746670398712</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1746670398712</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="leetcode 1011" />
-    <MESSAGE value="aggresive cows bs" />
     <MESSAGE value="leetcode 410" />
     <MESSAGE value="leetcode 1021" />
     <MESSAGE value="leetcode 205" />
@@ -475,6 +472,8 @@
     <MESSAGE value="gfg https://www.geeksforgeeks.org/problems/second-largest3735/1" />
     <MESSAGE value="leetcode 75" />
     <MESSAGE value="leetcode 169" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode 169" />
+    <MESSAGE value="leetcode 53" />
+    <MESSAGE value="leetcode 121" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode 121" />
   </component>
 </project>
