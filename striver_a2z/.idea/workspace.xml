@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1c29cd2-29e2-46fb-9483-8afd54bca04b" name="Changes" comment="leetcode 118">
+    <list default="true" id="b1c29cd2-29e2-46fb-9483-8afd54bca04b" name="Changes" comment="leetcode 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/striver-a2z/majorityElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/striver-a2z/majorityElement.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/striver-a2z/moveZeroes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/striver-a2z/moveZeroes.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/striver-a2z/secondLargestWithoutSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/striver-a2z/secondLargestWithoutSorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threeSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,38 +53,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729777095899</updated>
-    </task>
-    <task id="LOCAL-00042" summary="g2g">
-      <option name="closed" value="true" />
-      <created>1739660084368</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1739660084368</updated>
-    </task>
-    <task id="LOCAL-00043" summary="leetcode 540">
-      <option name="closed" value="true" />
-      <created>1739725842433</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1739725842433</updated>
-    </task>
-    <task id="LOCAL-00044" summary="leetcode 162">
-      <option name="closed" value="true" />
-      <created>1739854674685</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1739854674685</updated>
-    </task>
-    <task id="LOCAL-00045" summary="leetcode =">
-      <option name="closed" value="true" />
-      <created>1739854693028</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1739854693028</updated>
     </task>
     <task id="LOCAL-00046" summary="squareroot logn">
       <option name="closed" value="true" />
@@ -445,15 +414,56 @@
       <option name="project" value="LOCAL" />
       <updated>1747494666108</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="leetcode 238">
+      <option name="closed" value="true" />
+      <created>1748034454478</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1748034454478</updated>
+    </task>
+    <task id="LOCAL-00092" summary="leetcode 238">
+      <option name="closed" value="true" />
+      <created>1748034668268</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1748034668268</updated>
+    </task>
+    <task id="LOCAL-00093" summary="leetcode 238">
+      <option name="closed" value="true" />
+      <created>1748034674715</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1748034674715</updated>
+    </task>
+    <task id="LOCAL-00094" summary="leetcode 1">
+      <option name="closed" value="true" />
+      <created>1748145271960</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1748145271960</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="leetcode 242" />
-    <MESSAGE value="leetcode 1614" />
     <MESSAGE value="leetcode 13" />
     <MESSAGE value="leetcode 8" />
     <MESSAGE value="leetcode 1781" />
@@ -477,6 +487,8 @@
     <MESSAGE value="leetcode 560" />
     <MESSAGE value="leetcode 229" />
     <MESSAGE value="leetcode 118" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode 118" />
+    <MESSAGE value="leetcode 238" />
+    <MESSAGE value="leetcode 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode 1" />
   </component>
 </project>
