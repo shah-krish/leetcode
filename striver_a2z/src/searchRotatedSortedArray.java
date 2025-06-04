@@ -1,72 +1,44 @@
 public class searchRotatedSortedArray {
     public static void main(String[] args) {
         int[] arr = {};
-        System.out.println(search(arr, 0));
+
+
     }
 
-    public static int search(int[] nums, int target) {
-        int rotationIndex = value(nums); // Get the index of the smallest element
-
-        // Perform binary search in the correct half
-        if (nums[rotationIndex] == target) {
-            return rotationIndex;
-        }
-
-        if (rotationIndex == 0) {
-            return binarySearch(nums, 0, nums.length - 1, target); // Search entire array
-        }
-
-        if (target >= nums[0]) {
-            return binarySearch(nums, 0, rotationIndex - 1, target); // Search left half
-        } else {
-            return binarySearch(nums, rotationIndex, nums.length - 1, target); // Search right half
-        }
-    }
-
-    // Standard Binary Search
-    private static int binarySearch(int[] nums, int low, int high, int target) {
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-            if (nums[mid] == target) {
-                return mid;
-            } else if (nums[mid] < target) {
-                low = mid + 1;
-            } else {
-                high = mid - 1;
+    public int search(int[] nums, int target) {
+        int offset = -1;
+        for(int i=0; i<nums.length-1;i++){
+            if(nums[i]>nums[i+1]){
+                offset = i;
             }
         }
-        return -1; // Target not found
-    }
-
-    public static int value(int[] nums) {
-        int low = 0, high = nums.length - 1;
-
-        // If the array is already sorted (no rotation), return index 0
-        if (nums[low] <= nums[high]) {
-            return 0;
+        int low=0;
+        int high=0;
+        if(offset==-1){
+            high = nums.length-1;
         }
-
-        while (low < high) {
-            int mid = low + (high - low) / 2;
-
-            // If mid element is greater than the next element, rotation point is mid + 1
-            if (nums[mid] > nums[mid + 1]) {
-                return mid + 1;
-            }
-
-            // If mid element is smaller than the previous element, rotation point is mid
-            if (mid > low && nums[mid] < nums[mid - 1]) {
+        else if(target <= nums[nums.length-1]){
+            low=offset+1;
+            high=nums.length-1;
+        }
+        else{
+            low=0;
+            high=offset;
+        }
+        //System.out.println(low);
+        while (low<=high){
+            int mid = (low+high)/2;
+            if(nums[mid]==target){
                 return mid;
             }
-
-            // Decide which half to search
-            if (nums[mid] > nums[high]) {
-                low = mid + 1;
-            } else {
-                high = mid - 1;
+            else if(nums[mid]>target){
+                high = mid-1;
+            }
+            else{
+                low=mid+1;
             }
         }
-
-        return low;
+        return -1;
     }
+
 }
