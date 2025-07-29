@@ -23,17 +23,34 @@ public class middleOfLinkedList {
         }
     }
     public ListNode middleNode(ListNode head) {
-     if(head ==null || head.next==null){
-         return head;
-     }
-     ListNode slow = head;
-     ListNode fast = head;
-     while(fast!=null && fast.next!=null){
-         slow = slow.next;
-         fast = fast.next.next;
-     }
-     return slow;
+        ListNode curr = head;
+        if(curr.next == null){
+            return curr;
+        }
+        ListNode slow = head;
+        ListNode fast = head;
+        int counter = 0;
+        while(fast.next != null){
+            if(counter%2==0) {
+                slow = slow.next;
+            }
+            fast = fast.next;
+            counter++;
+        }
+        return slow;
     }
+//    public ListNode middleNode(ListNode head) {
+//     if(head ==null || head.next==null){
+//         return head;
+//     }
+//     ListNode slow = head;
+//     ListNode fast = head;
+//     while(fast!=null && fast.next!=null){
+//         slow = slow.next;
+//         fast = fast.next.next;
+//     }
+//     return slow;
+//    }
 }
 /*
     public ListNode middleNode(ListNode head) {
