@@ -1,9 +1,11 @@
+import java.util.List;
 import java.util.Stack;
 
 public class reverseLinkedList {
     public static void main(String[] args) {
 
     }
+
     class ListNode {
         int val;
         ListNode next;
@@ -23,24 +25,47 @@ public class reverseLinkedList {
             next = next1;
         }
     }
-    public ListNode reverseList(ListNode head){
-        if(head==null||head.next==null){
-            return head;
-        }
-        ListNode prev = head;
-        ListNode curr = head.next;
-        while(curr!=null){
-            ListNode temp = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = temp;
-        }
 
-        head.next = null;
-        return prev;
+    public ListNode reverseList(ListNode head) {
+        ListNode curr = head;
+        if(curr == null || curr.next==null){
+            return curr;
+        }
+        ListNode temp1 = head;
+        ListNode next = curr.next;
+        while(next!=null){
+            ListNode temp = next.next;
+            next.next = curr;
+            curr = next;
+            next= temp;
+        }
+        temp1.next = null;
+        return curr;
     }
-
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*
     public ListNode reverseList(ListNode head) {
         if (head == null || head.next == null) {
