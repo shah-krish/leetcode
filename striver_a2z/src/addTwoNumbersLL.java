@@ -30,11 +30,9 @@ public class addTwoNumbersLL {
                 ListNode c1 = l1;
                 ListNode c2 = l2;
 
-
-
                 while (c1 != null && c2 != null) {
-                    list.add(((c1.val + c2.val) % 10) + carry);
-                    if (c1.val + c2.val >= 10) {
+                    list.add(((c1.val + c2.val + carry) % 10));
+                    if (c1.val + c2.val + carry >= 10) {
                         carry = 1;
                     } else {
                         carry = 0;
