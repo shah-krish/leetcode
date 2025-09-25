@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1c29cd2-29e2-46fb-9483-8afd54bca04b" name="Changes" comment="leetcode 876">
+    <list default="true" id="b1c29cd2-29e2-46fb-9483-8afd54bca04b" name="Changes" comment="oddEvenLinkedList">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/striver-a2z/findPeakElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/striver-a2z/findPeakElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/striver-a2z/majorityElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/striver-a2z/majorityElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/striver-a2z/majorityElement2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/striver-a2z/majorityElement2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/striver-a2z/maximumProductSubarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/striver-a2z/maximumProductSubarray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/striver-a2z/moveZeroes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/striver-a2z/moveZeroes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/striver-a2z/searchRotatedSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/striver-a2z/searchRotatedSortedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/striver-a2z/secondLargestWithoutSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/striver-a2z/secondLargestWithoutSorting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/striver-a2z/singleElementSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/striver-a2z/singleElementSortedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/striver-a2z/subArraySumEqualsK.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/striver-a2z/subArraySumEqualsK.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/striver-a2z/threeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/striver-a2z/threeSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/striver-a2z/twoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/striver-a2z/twoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maximumProductSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maximumProductSubarray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,142 +49,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729777095899</updated>
-    </task>
-    <task id="LOCAL-00063" summary="leetcode 242">
-      <option name="closed" value="true" />
-      <created>1743164916270</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1743164916271</updated>
-    </task>
-    <task id="LOCAL-00064" summary="leetcode 1614">
-      <option name="closed" value="true" />
-      <created>1743165206839</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1743165206839</updated>
-    </task>
-    <task id="LOCAL-00065" summary="leetcode 13">
-      <option name="closed" value="true" />
-      <created>1743165630933</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1743165630933</updated>
-    </task>
-    <task id="LOCAL-00066" summary="leetcode 8">
-      <option name="closed" value="true" />
-      <created>1743168332491</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1743168332491</updated>
-    </task>
-    <task id="LOCAL-00067" summary="leetcode 1781">
-      <option name="closed" value="true" />
-      <created>1744123835578</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1744123835578</updated>
-    </task>
-    <task id="LOCAL-00068" summary="linkedlist basics">
-      <option name="closed" value="true" />
-      <created>1744229529831</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1744229529831</updated>
-    </task>
-    <task id="LOCAL-00069" summary="leetcode 876">
-      <option name="closed" value="true" />
-      <created>1744323251720</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1744323251720</updated>
-    </task>
-    <task id="LOCAL-00070" summary="leetcode 206">
-      <option name="closed" value="true" />
-      <created>1744494128222</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1744494128222</updated>
-    </task>
-    <task id="LOCAL-00071" summary="leetcode 141">
-      <option name="closed" value="true" />
-      <created>1744746893076</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1744746893076</updated>
-    </task>
-    <task id="LOCAL-00072" summary="leetcode 142">
-      <option name="closed" value="true" />
-      <created>1744820957216</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1744820957216</updated>
-    </task>
-    <task id="LOCAL-00073" summary="leetcode 234">
-      <option name="closed" value="true" />
-      <created>1745033198852</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1745033198854</updated>
-    </task>
-    <task id="LOCAL-00074" summary="leetcode 206">
-      <option name="closed" value="true" />
-      <created>1745180180715</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1745180180716</updated>
-    </task>
-    <task id="LOCAL-00075" summary="leetcode 876">
-      <option name="closed" value="true" />
-      <created>1745183499757</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1745183499758</updated>
-    </task>
-    <task id="LOCAL-00076" summary="leetcode 49">
-      <option name="closed" value="true" />
-      <created>1746333526817</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1746333526818</updated>
-    </task>
-    <task id="LOCAL-00077" summary="gfg https://www.geeksforgeeks.org/problems/second-largest3735/1">
-      <option name="closed" value="true" />
-      <created>1746334066081</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1746334066081</updated>
-    </task>
-    <task id="LOCAL-00078" summary="gfg https://www.geeksforgeeks.org/problems/second-largest3735/1">
-      <option name="closed" value="true" />
-      <created>1746587045626</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1746587045626</updated>
-    </task>
-    <task id="LOCAL-00079" summary="leetcode 75">
-      <option name="closed" value="true" />
-      <created>1746587072630</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1746587072631</updated>
     </task>
     <task id="LOCAL-00080" summary="leetcode 169">
       <option name="closed" value="true" />
@@ -454,7 +306,143 @@
       <option name="project" value="LOCAL" />
       <updated>1753802056818</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="leetcode 234">
+      <option name="closed" value="true" />
+      <created>1754151835989</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1754151835990</updated>
+    </task>
+    <task id="LOCAL-00113" summary="class files">
+      <option name="closed" value="true" />
+      <created>1754151856095</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1754151856095</updated>
+    </task>
+    <task id="LOCAL-00114" summary="class files">
+      <option name="closed" value="true" />
+      <created>1754151879800</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1754151879800</updated>
+    </task>
+    <task id="LOCAL-00115" summary="leetcode 328">
+      <option name="closed" value="true" />
+      <created>1754239164996</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1754239164997</updated>
+    </task>
+    <task id="LOCAL-00116" summary="leetcode 19">
+      <option name="closed" value="true" />
+      <created>1754333017245</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1754333017245</updated>
+    </task>
+    <task id="LOCAL-00117" summary="leetcode 2095">
+      <option name="closed" value="true" />
+      <created>1755526969162</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1755526969163</updated>
+    </task>
+    <task id="LOCAL-00118" summary="java files">
+      <option name="closed" value="true" />
+      <created>1755527000201</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1755527000201</updated>
+    </task>
+    <task id="LOCAL-00119" summary="leetcode 160">
+      <option name="closed" value="true" />
+      <created>1757023674797</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1757023674797</updated>
+    </task>
+    <task id="LOCAL-00120" summary="leetcode 2">
+      <option name="closed" value="true" />
+      <created>1757275555656</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1757275555656</updated>
+    </task>
+    <task id="LOCAL-00121" summary="leetcode 2">
+      <option name="closed" value="true" />
+      <created>1757275795867</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1757275795867</updated>
+    </task>
+    <task id="LOCAL-00122" summary="leetcode 50">
+      <option name="closed" value="true" />
+      <created>1757605192904</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1757605192904</updated>
+    </task>
+    <task id="LOCAL-00123" summary="leetcode 148">
+      <option name="closed" value="true" />
+      <created>1757605273705</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1757605273705</updated>
+    </task>
+    <task id="LOCAL-00124" summary="leetcode 8">
+      <option name="closed" value="true" />
+      <created>1757720268561</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1757720268561</updated>
+    </task>
+    <task id="LOCAL-00125" summary="leetcode 78">
+      <option name="closed" value="true" />
+      <created>1758584706504</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1758584706504</updated>
+    </task>
+    <task id="LOCAL-00126" summary="Count all subsequences with sum K">
+      <option name="closed" value="true" />
+      <created>1758779857344</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1758779857344</updated>
+    </task>
+    <task id="LOCAL-00127" summary="maxProductSubarray">
+      <option name="closed" value="true" />
+      <created>1758779883139</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1758779883140</updated>
+    </task>
+    <task id="LOCAL-00128" summary="oddEvenLinkedList">
+      <option name="closed" value="true" />
+      <created>1758779910783</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1758779910783</updated>
+    </task>
+    <option name="localTasksCounter" value="129" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -472,21 +460,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="leetcode 2149" />
-    <MESSAGE value="https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1" />
-    <MESSAGE value="leetcode 128" />
-    <MESSAGE value="leetcode 560" />
-    <MESSAGE value="leetcode 229" />
-    <MESSAGE value="leetcode 118" />
-    <MESSAGE value="leetcode 238" />
-    <MESSAGE value="leetcode 1" />
-    <MESSAGE value="leetcode 15" />
-    <MESSAGE value="leetcode 33" />
-    <MESSAGE value="leetcode 153" />
-    <MESSAGE value="leetcode 34" />
-    <MESSAGE value="leetcode  540" />
-    <MESSAGE value="leetcode  162" />
-    <MESSAGE value="leetcode  875" />
     <MESSAGE value="leetcode  1011" />
     <MESSAGE value="https://www.geeksforgeeks.org/problems/aggressive-cows/1" />
     <MESSAGE value="leetcode 1283" />
@@ -497,6 +470,21 @@
     <MESSAGE value="leetcode 151" />
     <MESSAGE value="leetcode 206" />
     <MESSAGE value="leetcode 876" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode 876" />
+    <MESSAGE value="leetcode 234" />
+    <MESSAGE value="class files" />
+    <MESSAGE value="leetcode 328" />
+    <MESSAGE value="leetcode 19" />
+    <MESSAGE value="leetcode 2095" />
+    <MESSAGE value="java files" />
+    <MESSAGE value="leetcode 160" />
+    <MESSAGE value="leetcode 2" />
+    <MESSAGE value="leetcode 50" />
+    <MESSAGE value="leetcode 148" />
+    <MESSAGE value="leetcode 8" />
+    <MESSAGE value="leetcode 78" />
+    <MESSAGE value="Count all subsequences with sum K" />
+    <MESSAGE value="maxProductSubarray" />
+    <MESSAGE value="oddEvenLinkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="oddEvenLinkedList" />
   </component>
 </project>
