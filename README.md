@@ -18,7 +18,7 @@ While Striver's A2Z provided a massive foundational base, I am now prioritizing 
 | Category | Progress | Status |
 | :--- | :--- | :--- |
 | Arrays & Hashing | 8 / 9 | 🟡 In Progress |
-| Two Pointers | 3 / 5 | 🟡 In Progress |
+| Two Pointers | 4 / 5 | 🟡 In Progress |
 | Sliding Window | 0 / 6 | ⚪ Pending |
 | Stack | 0 / 6 | ⚪ Pending |
 | Binary Search | 0 / 7 | ⚪ Pending |
