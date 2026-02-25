@@ -18,15 +18,15 @@ While Striver's A2Z provided a massive foundational base, I am now prioritizing 
 | Category | Progress | Status |
 | :--- | :--- | :--- |
 | Arrays & Hashing | 8 / 9 | 🟡 In Progress |
-| Two Pointers | 1 / 3 | 🟡 In Progress |
-| Sliding Window | 0 / 3 | ⚪ Pending |
-| Stack | 0 / 3 | ⚪ Pending |
-| Binary Search | 0 / 3 | ⚪ Pending |
-| Linked List | 0 / 6 | ⚪ Pending |
+| Two Pointers | 3 / 5 | 🟡 In Progress |
+| Sliding Window | 0 / 6 | ⚪ Pending |
+| Stack | 0 / 6 | ⚪ Pending |
+| Binary Search | 0 / 7 | ⚪ Pending |
+| Linked List | 0 / 11 | ⚪ Pending |
 | Trees | 0 / 15 | ⚪ Pending |
-| Tries | 0 / 3 | ⚪ Pending |
 | Heap / Priority Queue | 0 / 7 | ⚪ Pending |
-| Backtracking | 0 / 9 | ⚪ Pending |
+| Backtracking | 0 / 10 | ⚪ Pending |
+| Tries | 0 / 3 | ⚪ Pending |
 | Graphs | 0 / 13 | ⚪ Pending |
 | Advanced Graphs | 0 / 6 | ⚪ Pending |
 | 1-D Dynamic Programming | 0 / 12 | ⚪ Pending |
