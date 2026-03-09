@@ -19,7 +19,7 @@ While Striver's A2Z provided a massive foundational base, I am now prioritizing 
 | :--- | :--- | :--- |
 | Arrays & Hashing | 8 / 9 | 🟡 In Progress |
 | Two Pointers | 5 / 5 | 🟢 Done |
-| Sliding Window | 1 / 6 | 🟡 In Progress |
+| Sliding Window | 3 / 6 | 🟡 In Progress |
 | Stack | 0 / 6 | ⚪ Pending |
 | Binary Search | 0 / 7 | ⚪ Pending |
 | Linked List | 0 / 11 | ⚪ Pending |
