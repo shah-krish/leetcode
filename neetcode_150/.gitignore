@@ -6,3 +6,8 @@
 
 # Build output
 out/
+
+.idea/
+
+striver_a2z/out/
+striver_a2z/.idea/
