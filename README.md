@@ -21,7 +21,7 @@ While Striver's A2Z provided a massive foundational base, I am now prioritizing 
 | Two Pointers | 5 / 5 | 🟢 Done |
 | Sliding Window | 5 / 6 | 🟡 In Progress |
 | Stack | 6 / 6 | 🟢 Done |
-| Binary Search | 0 / 7 | ⚪ Pending |
+| Binary Search | 1 / 7 | 🟡 In Progress |
 | Linked List | 0 / 11 | ⚪ Pending |
 | Trees | 0 / 15 | ⚪ Pending |
 | Heap / Priority Queue | 0 / 7 | ⚪ Pending |
