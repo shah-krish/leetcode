@@ -9,20 +9,24 @@ public class validAnagram {
 
     }
     public boolean isAnagram(String s, String t) {
-        int[] frequency = new int[26];
-        for(int i = 0; i<s.length(); i++){
-            frequency[s.charAt(i) - 'a']++;
+        if(s.length()!=t.length()){
+            return false;
         }
-        for(int i = 0; i<t.length(); i++){
-            frequency[t.charAt(i) - 'a']--;
+        int[] freq = new int[26];
+        for(int i = 0; i<s.length();i++){
+            freq[s.charAt(i) - 'a'] = freq[s.charAt(i)-'a']+1;
         }
-        for(int i : frequency){
+        for(int i =0; i<t.length(); i++){
+            freq[t.charAt(i) - 'a'] = freq[t.charAt(i)-'a']-1;
+        }
+        for(int i:freq){
             if(i!=0){
                 return false;
             }
         }
         return true;
     }
+
 }
 /* ALT SOLUTION 1
  public static boolean isAnagram(String s, String t) {
