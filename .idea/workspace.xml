@@ -5,40 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1c29cd2-29e2-46fb-9483-8afd54bca04b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/neetcode_150/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/bestTimetoBuySellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/bestTimetoBuySellStock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/binarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/binarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/carFleet.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/carFleet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/containsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/containsDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/containsMostWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/containsMostWater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/dailyTemperatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/dailyTemperatures.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/evaluateReversePolishNotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/evaluateReversePolishNotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/findMinimumInRotatedSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/findMinimumInRotatedSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/groupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/groupAnagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/kokoEatingBananas.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/kokoEatingBananas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/largestRectangleInHistogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/largestRectangleInHistogram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/linkedListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/linkedListCycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/longestConsecutiveSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/longestConsecutiveSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/longestRepeatingCharacterReplacement.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/longestRepeatingCharacterReplacement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/longestSubstringWithoutRepeatingCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/longestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/medianOfTwoSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/medianOfTwoSortedArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/mergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/mergeTwoSortedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/minStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/minStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/minimumWindowSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/minimumWindowSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/permutationInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/permutationInString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/productExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/productExceptSelf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/reorderList.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/reorderList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/reverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/reverseLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/searchInRotatedSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/searchInRotatedSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/threeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/threeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/topKFrequent.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/topKFrequent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/trappingRainWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/trappingRainWater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/twoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/twoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/twoSumII.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/twoSumII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/validAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/validAnagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/validPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/validPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/validParantheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/validParantheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neetcode_150/validSudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/neetcode_150_java_archive/validSudoku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -67,14 +35,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/krish/Downloads/striver-sde/striver_a2z&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/krish/Downloads/striver-sde/striver_a2z"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\krish\PycharmProjects\leetcode" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
