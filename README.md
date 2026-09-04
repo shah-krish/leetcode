@@ -3,7 +3,7 @@
 This repository tracks my journey through Data Structures and Algorithms.
 
 ## 📈 Current Status: The Pivot
-After a 5-month hiatus, I am returning to the grind with a more focused strategy. I am transitioning from the comprehensive **Striver's A2Z** sheet to the **Neetcode 150**. 
+After a 5-month hiatus, I am returning to the grind with a more focused strategy. I am transitioning from the comprehensive **Striver's A2Z** sheet to the **Neetcode 150**, and switching my primary language to Python.
 
 **Why the switch?**
 While Striver's A2Z provided a massive foundational base, I am now prioritizing **Neetcode 150** to master the pattern-recognition (Sliding Window, Graphs, DP). I am trying to pivot away from volume to intuition. 
@@ -12,17 +12,17 @@ While Striver's A2Z provided a massive foundational base, I am now prioritizing 
 
 ## 🗺️ Roadmap & Progress
 
-### 🟢 Phase 2: Neetcode 150 (Current)
-*Started: February 2026*
+### 🟢 Phase 2: Neetcode 150 (Python Restart)
+*Started: September 2026*
 
 | Category | Progress | Status |
 | :--- | :--- | :--- |
-| Arrays & Hashing | 8 / 9 | 🟡 In Progress |
-| Two Pointers | 5 / 5 | 🟢 Done |
-| Sliding Window | 5 / 6 | 🟡 In Progress |
-| Stack | 6 / 6 | 🟢 Done |
-| Binary Search | 5 / 7 | 🟡 In Progress |
-| Linked List | 2 / 11 | 🟡 In Progress |
+| Arrays & Hashing | 0 / 9 | ⚪ Pending |
+| Two Pointers | 0 / 5 | ⚪ Pending |
+| Sliding Window | 0 / 6 | ⚪ Pending |
+| Stack | 0 / 6 | ⚪ Pending |
+| Binary Search | 0 / 7 | ⚪ Pending |
+| Linked List | 0 / 11 | ⚪ Pending |
 | Trees | 0 / 15 | ⚪ Pending |
 | Heap / Priority Queue | 0 / 7 | ⚪ Pending |
 | Backtracking | 0 / 10 | ⚪ Pending |
@@ -38,15 +38,14 @@ While Striver's A2Z provided a massive foundational base, I am now prioritizing 
 
 ### 🔵 Phase 1: Striver's A2Z (Foundations)
 *Status: Archived*
-This section contains my initial deep dive into DSA concepts. 
+This section contains my initial deep dive into DSA concepts using Java. 
 * [Link to Striver Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
-* Solutions are located in the `/Striver-A2Z` directory.
-
+* Solutions are located in the `/striver_a2z` directory.
 ---
 
 
 ## 🛠️ Tech Stack
-* **Primary Language:** Java
+* **Primary Language:** Python (Previously Java)
 * **Platform:** LeetCode
 
 ## 📜 License
