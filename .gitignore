@@ -1,0 +1,16 @@
+# --- IDE Configuration (IntelliJ & PyCharm) ---
+.idea/
+
+# --- Old Java Files ---
+*.class
+out/
+
+# --- Python Files ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments (if you ever use one)
+venv/
+env/
+.venv/
