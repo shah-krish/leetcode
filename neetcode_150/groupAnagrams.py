@@ -1,6 +1,5 @@
 from typing import List
 
-
 def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
     strings = {}
     for s in strs:
