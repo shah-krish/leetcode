@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1c29cd2-29e2-46fb-9483-8afd54bca04b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/neetcode_150/minimumWindowSubstring.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

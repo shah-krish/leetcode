@@ -13,7 +13,7 @@ def minWindow(self, s: str, t: str) -> str:
     for right in range(len(s)):
         curr = s[right]
         window[curr] = window.get(window[curr],0)+1
-        if curr in freq and window[curr] == freq[curr]
+        if curr in freq and window[curr] == freq[curr]:
             have+=1
         while have == need:
             temp_len = right-left+1
