@@ -1,0 +1,18 @@
+def carFleet(self, target: int, position: list[int], speed: list[int]) -> int:
+    dict = {}
+    for i, p in enumerate(position):
+        dict[p] = speed[i]
+    newPosition = sorted(position, reverse=True)
+    fleetSize = 1
+    itr = (target - newPosition[0]) / dict[newPosition[0]] 
+    for p in newPosition:
+        currItr = (target - p) / dict[p]
+        if (currItr > itr):
+            fleetSize += 1
+            itr = currItr
+    return fleetSize
+               
+        
+
+
+        
