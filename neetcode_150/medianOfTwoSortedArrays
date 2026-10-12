@@ -1,0 +1,9 @@
+# Not ideal solution as I used in-built methods
+def findMedianSortedArrays(self, nums1: list[int], nums2: list[int]) -> float:
+    merged = sorted(nums1 + nums2)
+    mid = len(merged) // 2
+    if len(merged) % 2 == 0:
+        return (merged[mid-1] + merged[mid]) / 2
+    else:
+        return merged[mid]
+       
