@@ -1,0 +1,22 @@
+class ListNode:
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
+def removeNthFromEnd(self, head: ListNode | None, n: int) -> ListNode | None:
+        ahead = head
+        behind = None
+        s = n
+        while ahead is not None:
+            if s < 0:
+                behind = behind.next
+            if s == 0: 
+                behind = head
+            ahead = ahead.next
+            s = s - 1
+        if behind is None:
+            return head.next
+        if behind.next.next is not None:
+            behind.next = behind.next.next
+        else:
+            behind.next = None
+        return head
